@@ -2,7 +2,7 @@
 second task:Face Detection Android App using Machine Learning KIT on Firebase.
 
 #requirements
-#CAMERA DEVICE
+:CAMERA DEVICE
 
 IDE: ANDROID STUDIO
 TESTED DEVICE:SAMSUNG M31
